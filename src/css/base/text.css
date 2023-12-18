@@ -1,0 +1,70 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+/* ================ TEXT CSS =============== */
+.text-red {
+	color: red;
+}
+.text-red-100 {
+	color: var(--color-red-100);
+}
+.text-red-200 {
+	color: var(--color-red-200);
+}
+.text-red-300 {
+	color: var(--color-red-300);
+}
+.text-red-400 {
+	color: var(--color-red-400);
+}
+.text-red-500 {
+	color: var(--color-red-500);
+}
+.text-red-600 {
+	color: var(--color-red-600);
+}
+.text-red-700 {
+	color: var(--color-red-700);
+}
+.text-red-800 {
+	color: var(--color-red-800);
+}
+.text-red-900 {
+	color: var(--color-red-900);
+}
+.text-white {
+	color: #fff;
+}
+.text-black {
+	color: #212121;
+}
+.text-blue {
+	color: #2979ff;
+}
+.text-light-green {
+	color: var(--color-light-green-500);
+}
+
+.text-orange {
+	color: #f49342;
+}
+
+.text-nowrap {
+	white-space: nowrap;
+}
+
+.underline {
+	text-decoration: underline;
+}
+.hover-underline:hover {
+	text-decoration: underline;
+}
+.text-left {
+	text-align: left;
+}
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}

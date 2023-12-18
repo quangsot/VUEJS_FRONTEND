@@ -1,0 +1,12 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+.pointer {
+	cursor: pointer;
+}
+.not-allowed {
+	cursor: not-allowed;
+}
+.default {
+	cursor: default !important;
+}

@@ -1,0 +1,33 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+@import url(./config.css);
+@import url(./base/base.css);
+::-webkit-scrollbar {
+	width: 6px;
+	height: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #fff;
+	border: unset;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #b5b5b5;
+	border-radius: 4px;
+}
+
+/* Handle on hover */
+/* ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-grey-900); 
+  } */
+
+.wrapper-of-icon {
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+	position: relative;
+}

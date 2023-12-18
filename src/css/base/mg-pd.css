@@ -1,0 +1,126 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+
+/* ================== Margin ================= */
+.mg-4 {
+	margin: 4px;
+}
+.mg-8 {
+	margin: 8px;
+}
+.mg-12 {
+	margin: 12px;
+}
+.mg-16 {
+	margin: 16px;
+}
+.mg-t-4 {
+	margin-top: 4px;
+}
+.mg-t-8 {
+	margin-top: 8px;
+}
+.mg-t-12 {
+	margin-top: 12px;
+}
+.mg-t-16 {
+	margin-top: 16px;
+}
+.mg-b-4 {
+	margin-bottom: 4px;
+}
+.mg-b-8 {
+	margin-bottom: 8px;
+}
+.mg-b-12 {
+	margin-bottom: 12px;
+}
+.mg-b-16 {
+	margin-bottom: 16px;
+}
+.mg-l-4 {
+	margin-left: 4px;
+}
+.mg-l-8 {
+	margin-left: 8px;
+}
+.mg-l-12 {
+	margin-left: 12px;
+}
+.mg-l-16 {
+	margin-left: 16px;
+}
+.mg-r-4 {
+	margin-right: 4px;
+}
+.mg-r-8 {
+	margin-right: 8px;
+}
+.mg-r-12 {
+	margin-right: 12px;
+}
+.mg-r-16 {
+	margin-right: 16px;
+}
+/* ================== Padding ================= */
+.pd-4 {
+	padding: 4px;
+}
+.pd-8 {
+	padding: 8px;
+}
+.pd-12 {
+	padding: 12px;
+}
+.pd-16 {
+	padding: 16px;
+}
+.pd-t-4 {
+	padding-top: 4px;
+}
+.pd-t-8 {
+	padding-top: 8px;
+}
+.pd-t-12 {
+	padding-top: 12px;
+}
+.pd-t-16 {
+	padding-top: 16px;
+}
+.pd-b-4 {
+	padding-bottom: 4px;
+}
+.pd-b-8 {
+	padding-bottom: 8px;
+}
+.pd-b-12 {
+	padding-bottom: 12px;
+}
+.pd-b-16 {
+	padding-bottom: 16px;
+}
+.pd-l-4 {
+	padding-left: 4px;
+}
+.pd-l-8 {
+	padding-left: 8px;
+}
+.pd-l-12 {
+	padding-left: 12px;
+}
+.pd-l-16 {
+	padding-left: 16px;
+}
+.pd-r-4 {
+	padding-right: 4px;
+}
+.pd-r-8 {
+	padding-right: 8px;
+}
+.pd-r-12 {
+	padding-right: 12px;
+}
+.pd-r-16 {
+	padding-right: 16px;
+}

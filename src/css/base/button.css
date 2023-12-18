@@ -1,0 +1,45 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+/* ==================== BUTTON CSS ==================== */
+.btn-green {
+	background-color: var(--color-light-green-500);
+}
+.btn-green:hover {
+	background-color: var(--color-light-green-600);
+}
+.btn-green:focus {
+	background-color: var(--color-light-green-600);
+	box-shadow: 0 0 3px 1px var(--color-light-green-400);
+}
+
+.btn-blue {
+	background: var(--color-blue-500);
+}
+.btn-blue:hover {
+	background-color: var(--color-blue-600);
+}
+.btn-blue:focus {
+	background-color: var(--color-blue-600);
+	box-shadow: 0 0 3px 1px var(--color-blue-300);
+}
+.btn-white {
+	background-color: #fff;
+}
+.btn-white:hover {
+	background-color: var(--color-grey-300);
+}
+.btn-white:focus {
+	background-color: var(--color-grey-300);
+	box-shadow: 0 0 3px 1px var(--color-grey-400);
+}
+.btn-red {
+	background-color: var(--color-red-500);
+}
+.btn-red:hover {
+	background-color: var(--color-red-600);
+}
+.btn-red:focus {
+	background-color: var(--color-red-600);
+	box-shadow: 0 0 3px 1px var(--color-red-300);
+}

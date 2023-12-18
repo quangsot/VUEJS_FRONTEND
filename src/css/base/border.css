@@ -1,0 +1,191 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+/* =================== BORDER CSS ===============*/
+.bd-grey {
+	border: 1px solid var(--color-grey-300) !important;
+}
+.bd-grey-100 {
+	border: 1px solid var(--color-grey-100) !important;
+}
+.bd-grey-200 {
+	border: 1px solid var(--color-grey-200) !important;
+}
+.bd-grey-300 {
+	border: 1px solid var(--color-grey-300) !important;
+}
+.bd-grey-400 {
+	border: 1px solid var(--color-grey-400) !important;
+}
+.bd-grey-500 {
+	border: 1px solid var(--color-grey-500) !important;
+}
+.bd-grey-600 {
+	border: 1px solid var(--color-grey-600) !important;
+}
+.bd-grey-700 {
+	border: 1px solid var(--color-grey-700) !important;
+}
+.bd-grey-800 {
+	border: 1px solid var(--color-grey-800) !important;
+}
+.bd-grey-900 {
+	border: 1px solid var(--color-grey-900) !important;
+}
+/* ======== COLOR RED =========*/
+.bd-red {
+	border: 1px solid var(--color-red-300) !important;
+}
+.bd-red-100 {
+	border: 1px solid var(--color-red-100) !important;
+}
+.bd-red-200 {
+	border: 1px solid var(--color-red-200) !important;
+}
+.bd-red-300 {
+	border: 1px solid var(--color-red-300) !important;
+}
+.bd-red-400 {
+	border: 1px solid var(--color-red-400) !important;
+}
+.bd-red-500 {
+	border: 1px solid var(--color-red-500) !important;
+}
+.bd-red-600 {
+	border: 1px solid var(--color-red-600) !important;
+}
+.bd-red-700 {
+	border: 1px solid var(--color-red-700) !important;
+}
+.bd-red-800 {
+	border: 1px solid var(--color-red-800) !important;
+}
+.bd-red-900 {
+	border: 1px solid var(--color-red-900) !important;
+}
+/* ======== COLOR BLUE ========*/
+.bd-blue {
+	border: 1px solid var(--color-blue-300) !important;
+}
+.bd-blue-100 {
+	border: 1px solid var(--color-blue-100) !important;
+}
+.bd-blue-200 {
+	border: 1px solid var(--color-blue-200) !important;
+}
+.bd-blue-300 {
+	border: 1px solid var(--color-blue-300) !important;
+}
+.bd-blue-400 {
+	border: 1px solid var(--color-blue-400) !important;
+}
+.bd-blue-500 {
+	border: 1px solid var(--color-blue-500) !important;
+}
+.bd-blue-600 {
+	border: 1px solid var(--color-blue-600) !important;
+}
+.bd-blue-700 {
+	border: 1px solid var(--color-blue-700) !important;
+}
+.bd-blue-800 {
+	border: 1px solid var(--color-blue-800) !important;
+}
+.bd-blue-900 {
+	border: 1px solid var(--color-blue-900) !important;
+}
+
+/* ================= BORDER HOVER ============== */
+/* ====== COLOR GREY =======*/
+.bd-hover-grey:hover {
+	border: 1px solid var(--color-grey-300) !important;
+}
+.bd-hover-grey-100:hover {
+	border: 1px solid var(--color-grey-100) !important;
+}
+.bd-hover-grey-200:hover {
+	border: 1px solid var(--color-grey-200) !important;
+}
+.bd-hover-grey-300:hover {
+	border: 1px solid var(--color-grey-300) !important;
+}
+.bd-hover-grey-400:hover {
+	border: 1px solid var(--color-grey-400) !important;
+}
+.bd-hover-grey-500:hover {
+	border: 1px solid var(--color-grey-500) !important;
+}
+.bd-hover-grey-600:hover {
+	border: 1px solid var(--color-grey-600) !important;
+}
+.bd-hover-grey-700:hover {
+	border: 1px solid var(--color-grey-700) !important;
+}
+.bd-hover-grey-800:hover {
+	border: 1px solid var(--color-grey-800) !important;
+}
+.bd-hover-grey-900:hover {
+	border: 1px solid var(--color-grey-900) !important;
+}
+/* ======== COLOR RED =========*/
+.bd-hover-red:hover {
+	border: 1px solid var(--color-red-300) !important;
+}
+.bd-hover-red-100:hover {
+	border: 1px solid var(--color-red-100) !important;
+}
+.bd-hover-red-200:hover {
+	border: 1px solid var(--color-red-200) !important;
+}
+.bd-hover-red-300:hover {
+	border: 1px solid var(--color-red-300) !important;
+}
+.bd-hover-red-400:hover {
+	border: 1px solid var(--color-red-400) !important;
+}
+.bd-hover-red-500:hover {
+	border: 1px solid var(--color-red-500) !important;
+}
+.bd-hover-red-600:hover {
+	border: 1px solid var(--color-red-600) !important;
+}
+.bd-hover-red-700:hover {
+	border: 1px solid var(--color-red-700) !important;
+}
+.bd-hover-red-800:hover {
+	border: 1px solid var(--color-red-800) !important;
+}
+.bd-hover-red-900:hover {
+	border: 1px solid var(--color-red-900) !important;
+}
+/* ======== COLOR BLUE ========*/
+.bd-hover-blue:hover {
+	border: 1px solid var(--color-blue-300) !important;
+}
+.bd-hover-blue-100:hover {
+	border: 1px solid var(--color-blue-100) !important;
+}
+.bd-hover-blue-200:hover {
+	border: 1px solid var(--color-blue-200) !important;
+}
+.bd-hover-blue-300:hover {
+	border: 1px solid var(--color-blue-300) !important;
+}
+.bd-hover-blue-400:hover {
+	border: 1px solid var(--color-blue-400) !important;
+}
+.bd-hover-blue-500:hover {
+	border: 1px solid var(--color-blue-500) !important;
+}
+.bd-hover-blue-600:hover {
+	border: 1px solid var(--color-blue-600) !important;
+}
+.bd-hover-blue-700:hover {
+	border: 1px solid var(--color-blue-700) !important;
+}
+.bd-hover-blue-800:hover {
+	border: 1px solid var(--color-blue-800) !important;
+}
+.bd-hover-blue-900:hover {
+	border: 1px solid var(--color-blue-900) !important;
+}

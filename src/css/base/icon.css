@@ -1,0 +1,309 @@
+/*
+* author: Trương Mạnh Quang (15/07/2023)
+*/
+/* ==================== ICON ==================== */
+.bank-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -121px -1590px;
+	width: 16px;
+	height: 16px;
+}
+.bell-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -788px -30px;
+	width: 22px;
+	height: 25px;
+}
+.bell-white-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -257px -88px;
+	width: 22px;
+	height: 25px;
+}
+.bell-grey-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -257px -32px;
+	width: 22px;
+	height: 25px;
+}
+.bell-black-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -788px -30px;
+	width: 22px;
+	height: 25px;
+}
+.budget-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -426px -1663px;
+	width: 18px;
+	height: 18px;
+}
+.bill-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -254px -1589px;
+	width: 14px;
+	height: 17px;
+}
+.cart-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -206px -1588px;
+	width: 20px;
+	height: 18px;
+}
+.cancel-small-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -84px -316px;
+	width: 8px;
+	height: 8px;
+}
+.cancel-medium-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -246px -30px;
+	width: 12px;
+	height: 12px;
+}
+.cancel-big-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -147px -147px;
+	width: 18px;
+	height: 18px;
+}
+.category-icon {
+	background: url("@/assets/ic_category.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.circle-blue {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -219px -464px;
+	width: 13px;
+	height: 13px;
+}
+.collapse-black-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -847px -35px;
+	width: 16px;
+	height: 14px;
+}
+.collapse-white-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -316px -37px;
+	width: 16px;
+	height: 14px;
+}
+.checked-active-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -196px -30px;
+	width: 16px;
+	height: 12px;
+}
+.dashboard-icon {
+	background: url("@/assets/ic_dashboard.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.decision-icon {
+	background: url("@/assets/ic_decision.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.document-icon {
+	background: url("../../assets/ic_document_help.svg") no-repeat;
+	width: 28px;
+	height: 28px;
+}
+.drop-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -84px -361px;
+	width: 8px;
+	height: 14px;
+}
+.excel-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -614px -834px;
+	width: 34px;
+	height: 30px;
+}
+.error-notify-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -752px -462px;
+	width: 36px;
+	height: 36px;
+}
+.edit-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -4px -76px;
+	width: 16px;
+	height: 16px;
+}
+.fail-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -1136px -467px;
+	width: 24px;
+	height: 23px;
+}
+.finance-report-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -552px -1593px;
+	width: 14px;
+	height: 13px;
+}
+.finance-analysis-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -251px -1667px;
+	width: 17px;
+	height: 14px;
+}
+.filter-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -1602px -91px;
+	width: 20px;
+	height: 19px;
+}
+.fixed-assets-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -382px -1589px;
+	width: 17px;
+	height: 18px;
+}
+.guide-icon {
+	background: url("@/assets/ic_guide.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.hand-bag-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -165px -1589px;
+	width: 16px;
+	height: 18px;
+}
+.money-bag-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -78px -1588px;
+	width: 14px;
+	height: 18px;
+}
+.movement-icon {
+	width: 23px;
+	height: 23px;
+	background: url("@/assets/ic_movement.svg") no-repeat;
+}
+.move-pre-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -36px -361px;
+	width: 8px;
+	height: 14px;
+}
+.move-next-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -84px -361px;
+	width: 8px;
+	height: 14px;
+}
+.not-move-pre-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -36px -409px;
+	width: 8px;
+	height: 14px;
+}
+.not-move-next-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -84px -409px;
+	width: 8px;
+	height: 14px;
+}
+.overview-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -146px -2px;
+	width: 20px;
+	height: 20px;
+}
+.price-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -470px -1590px;
+	width: 18px;
+	height: 17px;
+}
+.plus-white-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -196px -100px;
+	width: 16px;
+	height: 16px;
+}
+.profile-icon {
+	background: url("@/assets/ic_profile.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.question-white-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -201px -89px;
+	width: 22px;
+	height: 22px;
+}
+.question-grey-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -732px -31px;
+	width: 22px;
+	height: 22px;
+}
+.question-black-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -732px -31px;
+	width: 22px;
+	height: 22px;
+}
+.report-icon {
+	background: url("@/assets/ic_report.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.reload-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -268px -258px;
+	width: 16px;
+	height: 20px;
+}
+.reward-icon {
+	background: url("@/assets/ic_reward.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.search-black-icon {
+	background: url("@/assets/ic_search.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.search-grey-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -316px -148px;
+	width: 17px;
+	height: 16px;
+}
+.search-white-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -292px -28px;
+	width: 16px;
+	height: 16px;
+}
+.setting-black-icon {
+	background: url("@/assets/ic_setting.svg") no-repeat;
+	width: 23px;
+	height: 23px;
+}
+.setting-grey-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -33px -144px;
+	width: 23px;
+	height: 24px;
+}
+.setting-white-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -144px -88px;
+	width: 24px;
+	height: 24px;
+}
+.successful-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -1602px -258px;
+	width: 20px;
+	height: 20px;
+}
+.synthetic-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -514px -1590px;
+	width: 15px;
+	height: 16px;
+}
+.three-dot-icon {
+	background: url("@/assets/sprites.06b14dc5.svg") no-repeat -171px -58px;
+	width: 18px;
+	height: 4px;
+}
+.tax-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -427px -1591px;
+	width: 16px;
+	height: 16px;
+}
+.toggle-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -428px -92px;
+	width: 16px;
+	height: 16px;
+}
+.tools-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -339px -1590px;
+	width: 18px;
+	height: 17px;
+}
+.warehouse-icon {
+	background: url("@/assets/Sprites.89360e6c.svg") no-repeat -294px -1589px;
+	width: 18px;
+	height: 17px;
+}
+.warning-small-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -593px -145px;
+	width: 22px;
+	height: 23px;
+}
+.warning-big-icon {
+	background: url("@/assets/Sprites.64af8f61.svg") no-repeat -598px -463px;
+	width: 43px;
+	height: 37px;
+}
